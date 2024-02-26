@@ -1,16 +1,46 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Yizhou</h2>
 
-<!--
-**wyizhou/wyizhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-Here are some ideas to get you started:
+<h3> 👨🏻•💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🤔 &nbsp; Engage in the data analysis of anti-cybercrime and anti-money laundering.
+
+- 🌱 &nbsp; Optimistic, positive, proactive.
+
+- ✍️ &nbsp; Enjoys coding and has a passion for mathematics.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Pandas | Numpy 
+
+- 🌐 &nbsp; HTML | CSS | JavaScript |  ReactJS
+
+- 🛢 &nbsp; MySQL | MongoDB | Elasticsearch
+
+- 🔧 &nbsp; Git | Markdown | Docker
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+- <a href="https://wuyizhou.com/"><img alt="Website" src="https://img.shields.io/badge/wuyizhou.com-black?style=flat-square&logo=google-chrome"></a>
+
+- <a href="mailto:e_@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-e_@live.com-blue?style=flat-square&logo=gmail"></a>
+
+
+
+
+<hr>
+
+
