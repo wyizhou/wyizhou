@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Yizhou</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/wyizhou/wyizhou/blob/f668c9732a93ef1b18b7beb0ae1aa773f0eec9be/giphy.gif)" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -29,9 +29,6 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
 
 
 - <a href="https://wuyizhou.com/"><img alt="Website" src="https://img.shields.io/badge/wuyizhou.com-black?style=flat-square&logo=google-chrome"></a>
